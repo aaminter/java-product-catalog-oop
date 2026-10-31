@@ -1,5 +1,7 @@
 # Java OOP: Product Catalog and Search
 
+![Java CI](https://github.com/aaminter/OOP/actions/workflows/ci.yml/badge.svg)
+
 Учебное консольное приложение на Java, развивающее модель каталога и корзины интернет-магазина.
 
 ## Реализованные концепции
